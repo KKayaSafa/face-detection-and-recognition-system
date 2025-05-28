@@ -1,0 +1,5 @@
+data/
+__pycache__/
+venv/
+src/__pycache__/
+# Ignore Python bytecode files
