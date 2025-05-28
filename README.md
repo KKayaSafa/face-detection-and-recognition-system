@@ -77,14 +77,27 @@ Daha sonra uygulama içinden "Embeddings Yenile" butonunu kullanarak yüz vektö
 
 ## Ekran Görüntüleri
 
-### Ana Menü
-![Ana Menü](img/main_menu.png)
+Aşağıda, `img` klasöründe bulunan bazı örnek ekran görüntüleri yer almaktadır:
 
-### Kişi Sayma Uygulaması
-![Kişi Sayma](img/person_counter.png)
+<p align="center">
+  <img src="./img/main_menu.png" alt="Ana Menü" width="600"/>
+  <br>
+  <b>Ana Menü</b>
+</p>
 
-### Yüz Tanıma Uygulaması
-![Yüz Tanıma](img/face_recognition.png)
+<p align="center">
+  <img src="./img/person_counter.png" alt="Kişi Sayma" width="600"/>
+  <br>
+  <b>Kişi Sayma Uygulaması</b>
+</p>
+
+<p align="center">
+  <img src="./img/face_recognition.png" alt="Yüz Tanıma" width="600"/>
+  <br>
+  <b>Yüz Tanıma Uygulaması</b>
+</p>
+
+> Görsellerin doğru görüntülenmesi için `img` klasörünün proje dizininde bulunması gerekmektedir.
 
 ## Dosya Yapısı
 
